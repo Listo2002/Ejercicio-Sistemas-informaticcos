@@ -1,2 +1,1 @@
-# Ejercicio-Componen
-tes placa base-S.I.
+# Ejercicio-Componentes placa base-S.I.
